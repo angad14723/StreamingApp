@@ -1,0 +1,80 @@
+{
+  "source": "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/StreamingApp/SearchView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Search Hotstar",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try a different search term",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search Mode",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Results",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "By Title",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "By Content ID",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter video title...",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter content ID...",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 115
+        }
+      }
+    ]
+  },
+  "version": 1
+}

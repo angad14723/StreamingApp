@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>64456FBD-E6AB-4855-83C1-BB3465B5E46C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>64456FBD-E6AB-4855-83C1-BB3465B5E46C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StreamingApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StreamingApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project StreamingApp with scheme StreamingApp</string>
+			<key>timeStartedRecording</key>
+			<real>791874810.10384703</real>
+			<key>timeStoppedRecording</key>
+			<real>791874828.78041995</real>
+			<key>title</key>
+			<string>Building project StreamingApp with scheme StreamingApp</string>
+			<key>uniqueIdentifier</key>
+			<string>64456FBD-E6AB-4855-83C1-BB3465B5E46C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

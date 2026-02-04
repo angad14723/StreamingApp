@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingApp-primary.dia",
+    "emit-module-dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingApp-primary-emit-module.dia",
+    "pch" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingApp-primary.swiftdeps"
+  },
+  "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/StreamingApp/ContentView.swift" : {
+    "const-values" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/StreamingApp/HotstarAPI.swift" : {
+    "const-values" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/HotstarAPI.swiftconstvalues",
+    "dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/HotstarAPI.d",
+    "diagnostics" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/HotstarAPI.dia",
+    "index-unit-output-path" : "/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/HotstarAPI.o",
+    "llvm-bc" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/HotstarAPI.bc",
+    "object" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/HotstarAPI.o",
+    "swift-dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/HotstarAPI.swiftdeps",
+    "swiftmodule" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/HotstarAPI~partial.swiftmodule"
+  },
+  "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/StreamingApp/MetadataDetailView.swift" : {
+    "const-values" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/MetadataDetailView.swiftconstvalues",
+    "dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/MetadataDetailView.d",
+    "diagnostics" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/MetadataDetailView.dia",
+    "index-unit-output-path" : "/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/MetadataDetailView.o",
+    "llvm-bc" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/MetadataDetailView.bc",
+    "object" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/MetadataDetailView.o",
+    "swift-dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/MetadataDetailView.swiftdeps",
+    "swiftmodule" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/MetadataDetailView~partial.swiftmodule"
+  },
+  "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/StreamingApp/Models.swift" : {
+    "const-values" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/StreamingApp/SearchView.swift" : {
+    "const-values" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/SearchView.swiftconstvalues",
+    "dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/SearchView.d",
+    "diagnostics" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/SearchView.dia",
+    "index-unit-output-path" : "/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/SearchView.o",
+    "llvm-bc" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/SearchView.bc",
+    "object" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/SearchView.o",
+    "swift-dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/SearchView.swiftdeps",
+    "swiftmodule" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/SearchView~partial.swiftmodule"
+  },
+  "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/StreamingApp/StreamingAppApp.swift" : {
+    "const-values" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingAppApp.swiftconstvalues",
+    "dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingAppApp.d",
+    "diagnostics" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingAppApp.dia",
+    "index-unit-output-path" : "/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingAppApp.o",
+    "llvm-bc" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingAppApp.bc",
+    "object" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingAppApp.o",
+    "swift-dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingAppApp.swiftdeps",
+    "swiftmodule" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/StreamingAppApp~partial.swiftmodule"
+  },
+  "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/build/Build/Intermediates.noindex/StreamingApp.build/Debug-iphonesimulator/StreamingApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

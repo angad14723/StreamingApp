@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'StreamingApp' in project 'StreamingApp' (no dependencies)

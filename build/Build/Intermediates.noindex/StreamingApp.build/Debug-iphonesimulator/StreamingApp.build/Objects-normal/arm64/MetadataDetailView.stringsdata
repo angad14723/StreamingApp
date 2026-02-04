@@ -1,0 +1,40 @@
+{
+  "source": "/Users/mipl/Documents/ReverseEngineeering/StreamingApp/StreamingApp/MetadataDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Metadata",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Image URLs",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copied!",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 183
+        }
+      }
+    ]
+  },
+  "version": 1
+}
