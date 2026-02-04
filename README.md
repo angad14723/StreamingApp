@@ -1,6 +1,6 @@
-# Hotstar Metadata Retrieval App
+# Metadata Retrieval App (For Education Purpose)
 
-An iOS SwiftUI application that retrieves video metadata from Hotstar using reverse-engineered non-public APIs.
+An iOS SwiftUI application that retrieves video metadata from a streaming service using reverse-engineered non-public APIs.
 
 ## Features
 
@@ -43,8 +43,8 @@ An iOS SwiftUI application that retrieves video metadata from Hotstar using reve
 
 The app uses Hotstar's internal BFF (Backend For Frontend) APIs:
 
-- **Search**: `https://www.hotstar.com/api/internal/bff/v2/pages/search?search_query={query}`
-- **Content**: `https://www.hotstar.com/api/internal/bff/v2/pages/watch?content_id={id}`
+- **Search**: `https://www.****.com/api/internal/bff/v2/pages/search?search_query={query}`
+- **Content**: `https://www.****.com/api/internal/bff/v2/pages/watch?content_id={id}`
 
 > **Note**: These are non-public BFF APIs designed for the web frontend. The response structure is deeply nested and contains UI-specific data. The app extracts only the relevant metadata fields.
 
@@ -59,7 +59,7 @@ The API requires authentication via the `x-hs-usertoken` header (JWT token). The
 ```
 StreamingApp/
 ├── Models.swift              # Data models (VideoMetadata, SearchResult, etc.)
-├── HotstarAPI.swift          # API client with search and fetch methods
+├── StreamingAPI.swift          # API client with search and fetch methods
 ├── SearchView.swift          # Main search interface
 ├── MetadataDetailView.swift  # Detailed metadata display
 └── ContentView.swift         # Root view
